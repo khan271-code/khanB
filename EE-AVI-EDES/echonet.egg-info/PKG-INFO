@@ -1,0 +1,22 @@
+Metadata-Version: 2.4
+Name: echonet
+Version: 1.0.0
+Summary: Video-based AI for beat-to-beat cardiac function assessment.
+Home-page: https://echonet.github.io/dynamic
+Classifier: Programming Language :: Python :: 3
+License-File: LICENSE
+License-File: LICENSE.txt
+Requires-Dist: click
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: torch
+Requires-Dist: torchvision
+Requires-Dist: opencv-python
+Requires-Dist: scikit-image
+Requires-Dist: tqdm
+Requires-Dist: scikit-learn
+Dynamic: classifier
+Dynamic: home-page
+Dynamic: license-file
+Dynamic: requires-dist
+Dynamic: summary
